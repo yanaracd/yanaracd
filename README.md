@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://media.licdn.com/dms/image/D4D16AQH7-VKokSwvVw/profile-displaybackgroundimage-shrink_350_1400/0/1687699345433?e=1695254400&v=beta&t=z2BAjrsDFypQwoAoxef0ysjPhA77Z_GRGKGaJnXVR7c)
+![Imagen decorativa de tu perfil](https://kinsta.com/es/wp-content/uploads/sites/8/2019/11/fragmento-codigo-html.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Yanara Caballero Delgado</h1>
