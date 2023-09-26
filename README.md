@@ -1,5 +1,3 @@
-![Imagen decorativa de tu perfil](https://kinsta.com/es/wp-content/uploads/sites/8/2019/11/fragmento-codigo-html.jpg)
-
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Yanara Caballero Delgado</h1>
 <h3 align="center">FRONTEND DEVELOPER</h3>
